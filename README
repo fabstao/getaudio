@@ -1,0 +1,10 @@
+# Get Audio
+
+Gets audio and converts to MP3 from YT videos
+
+## Requisites
+
+- Mplayer
+- youtube-dl
+- lame
+- ffmpeg
